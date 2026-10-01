@@ -32,19 +32,19 @@
   ],
   "downloads": {
     "xmrw5": {
-      "version": "1.0",
+      "version": "2.0",
       "file_name": "downloads/XianYing11.bin",
-      "versionCode": 1
+      "versionCode": 2
     },
     "xmrw5xring": {
-      "version": "1.0",
+      "version": "2.0",
       "file_name": "downloads/XianYing11.bin",
-      "versionCode": 1
+      "versionCode": 2
     },
     "xmrw6": {
-      "version": "1.0",
+      "version": "2.0",
       "file_name": "downloads/XianYing11.bin",
-      "versionCode": 1
+      "versionCode": 2
     }
   },
   "ext": {}
