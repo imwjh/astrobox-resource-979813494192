@@ -1,0 +1,51 @@
+{
+  "item": {
+    "id": "979813494192",
+    "restype": "watchface",
+    "name": "显影",
+    "description": "做这块表盘的想法很简单：想让时间显出来，而不是被画出来。\n\n所以同一枚数字套了七层同心轮廓，由外向内一层层收紧、一层层变亮。最外面那圈几乎看不见，越往中心越清楚——像照片在显影液里慢慢浮出影像，一层一层，影像才完整。因为这个过程，它叫「显影」。\n\n收到最内层，数字收成一条实心的窄带，并跟着秒呼吸，每秒明暗一次。这是整块表盘上唯一在动的地方，也是我特意留住的一点呼吸感：盘子不该一直盯着，但它得让你知道它还在。\n\n熄屏时，七层轮廓和实心带都隐去，只留一圈 2.6px 的描边。亮着的像素越少，续航越长；亮度压到最低，这一圈也还看得清。\n\n字体选了 Fraunces，带一点手工的衬线感，和轮廓叠在一起不打架。\n\n七层轮廓 · 逐层显影 · 秒呼吸 · 息屏描边",
+    "preview": [
+      "media/poster-1-2000x3000_结果.png",
+      "media/poster-2-2000x3000_结果.png",
+      "media/poster-3-2000x3000_结果.png"
+    ],
+    "icon": "media/屏幕截图 2026-10-02 064313.png",
+    "cover": "media/cover-type-3000x2000_结果.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "支持我",
+      "url": "https://imwjh.com/support-me/zh",
+      "icon": "Heart"
+    },
+    {
+      "title": "seegood.top",
+      "url": "https://seegood.top",
+      "icon": "AirplaneTilt"
+    }
+  ],
+  "downloads": {
+    "xmrw5": {
+      "version": "1.0",
+      "file_name": "downloads/XianYing11.bin",
+      "versionCode": 1
+    },
+    "xmrw5xring": {
+      "version": "1.0",
+      "file_name": "downloads/XianYing11.bin",
+      "versionCode": 1
+    },
+    "xmrw6": {
+      "version": "1.0",
+      "file_name": "downloads/XianYing11.bin",
+      "versionCode": 1
+    }
+  },
+  "ext": {}
+}
