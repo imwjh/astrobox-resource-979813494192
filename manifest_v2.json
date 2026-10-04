@@ -9,7 +9,7 @@
       "media/poster-2-2000x3000_结果.png",
       "media/poster-3-2000x3000_结果.png"
     ],
-    "icon": "media/屏幕截图 2026-10-02 064313.png",
+    "icon": "media/11_active-256.png",
     "cover": "media/cover-type-3000x2000_结果.png",
     "author": [
       {
@@ -22,12 +22,12 @@
     {
       "title": "支持我",
       "url": "https://imwjh.com/support-me/zh",
-      "icon": "Heart"
+      "icon": "heart"
     },
     {
       "title": "seegood.top",
       "url": "https://seegood.top",
-      "icon": "AirplaneTilt"
+      "icon": "airplane-tilt"
     }
   ],
   "downloads": {
