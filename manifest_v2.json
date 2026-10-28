@@ -35,6 +35,11 @@
       "version": "2.0",
       "file_name": "downloads/XianYing11.bin",
       "versionCode": 2
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/显影-Band10Pro.bin",
+      "versionCode": 0
     }
   },
   "ext": {}
